@@ -1,7 +1,5 @@
-# scrapingtwitter
-Raspagem de dados nas mensagens do twitter para analise de sentimentos dos usuários sobre a cidade de joão pessoa
+# Analise de Sentimentos
+Utilizei o dataset fornecido pela Universidade de Michiga disponibilizados no kaggle onde continha posts do twitter para analise de sentimentos dos usuários sobre FIlmes
 
-Foi utilizado a biblioteca twikit para 'driblar' a detecção de bots do X
+Foi realizado uma limpeza nesses dados com biblioteca NTKL para conseguir classificar os sentimentos como positivos e negativox 
 
-### Requisitos:
-1) Criar conta secundária no X para utilizar como login de acesso ao site
